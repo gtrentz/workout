@@ -1,38 +1,39 @@
-# Welcome to Remix!
+# Fitness Application
 
-- [Remix Docs](https://remix.run/docs)
+<img src="public/favicon.ico" alt="Logo" width="200"/>
 
-## Development
+## Table of Contents
+- [Fitness Application](#fitness-application)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Technologies Used](#technologies-used)
+  - [Usage](#usage)
+  - [Acknowledgments](#acknowledgments)
 
-From your terminal:
+## Introduction
 
-```sh
-npm run dev
-```
 
-This starts your app in development mode, rebuilding assets on file changes.
+## Features
 
-## Deployment
+Key features:
 
-First, build your app for production:
+## Technologies Used
 
-```sh
-npm run build
-```
+Outline the technologies and frameworks you used to build your application:
 
-Then run the app in production mode:
+- **Frontend**:
+- **Backend**: 
+- **Deployment**:
 
-```sh
-npm start
-```
+## Usage
 
-Now you'll need to pick a host to deploy it to.
+## Acknowledgments
 
-### DIY
+We would like to express our gratitude to the following individuals for their support and contributions to this project:
 
-If you're familiar with deploying node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `remix build`
-
-- `build/`
-- `public/build/`
+    Grant Trentz:
+    Jakob Malasig:
+    Harry Truong: 
+    Theran Armogan: 
+    Jeremy Raucci: 
